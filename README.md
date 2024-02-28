@@ -2,7 +2,7 @@
 
 ## Anush Onkarappa
 
-I am Anush, a Data Scientist,driven by quantitative analysis and a broad interest in all latest tech related to Machine Learning and AI :)
+I am Anush, a Data Scientist driven by quantitative analysis and a broad interest in all the latest tech related to Machine Learning and AI :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anush-onkar&label=Profile%20views&color=0e75b6&style=flat" alt="anush-onkar" /> </p>
 
