@@ -1,7 +1,4 @@
 # Hi there 👋
-
-## Anush Onkarappa
-
 I am Anush, a Data Scientist driven by quantitative analysis and a broad interest in all the latest tech related to Machine Learning and AI
 
 <h3 align="left">Connect with me:</h3>
